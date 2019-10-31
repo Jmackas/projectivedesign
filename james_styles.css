@@ -4,7 +4,10 @@
 /*================================= 
 Universal
 =================================*/
-
+/* Body */
+body.site {
+	padding: 0;
+}
 
 /* Body container */
 .body .container {
