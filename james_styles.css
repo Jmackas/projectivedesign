@@ -4,10 +4,6 @@
 /*================================= 
 Universal
 =================================*/
-/* Body */
-body.site {
-    background-color:rgba(0,0,0,0);
-}
 
 
 /* Body container */
@@ -16,3 +12,9 @@ body.site {
     box-shadow: none;
     border: none;
 }
+
+
+
+/*================================= 
+Navbar
+=================================*/
