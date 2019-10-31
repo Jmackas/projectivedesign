@@ -30,8 +30,19 @@ body.site {
 /*================================= 
 Navbar
 =================================*/
+/* Navigation container */
 .navigation {
     background: #f4f5f4;
+}
+
+/* Navbar */
+.nav {
+    clear: both;
+}
+
+/* Nav menu items */
+.navigation .nav li {
+    float: left;
 }
 
 
