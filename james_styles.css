@@ -37,12 +37,8 @@ Navbar
 
 /* Navbar */
 .nav {
-    clear: both;
-}
-
-/* Nav menu items */
-.navigation .nav li {
-    float: left;
+    width: 70%;
+    margin: auto;
 }
 
 
