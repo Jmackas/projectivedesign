@@ -13,5 +13,6 @@ body.site {
 /* Body container */
 .body .container {
 	border-radius: 0;
-	box-shadow: none;
+    box-shadow: none;
+    border: none;
 }
