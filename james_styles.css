@@ -8,3 +8,10 @@ Universal
 body.site {
     background-color:rgba(0,0,0,0);
 }
+
+
+/* Body container */
+.body .container {
+	border-radius: 0;
+	box-shadow: none;
+}
