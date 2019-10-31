@@ -10,6 +10,7 @@ body.site {
     border: none;
 }
 
+
 /* Body container */
 .body .container {
 	border-radius: 0;
@@ -22,3 +23,14 @@ body.site {
 /*================================= 
 Navbar
 =================================*/
+
+
+
+
+/*================================= 
+Misc
+=================================*/
+/* Fluid container */
+.container-fluid {
+    padding: 0;
+}
